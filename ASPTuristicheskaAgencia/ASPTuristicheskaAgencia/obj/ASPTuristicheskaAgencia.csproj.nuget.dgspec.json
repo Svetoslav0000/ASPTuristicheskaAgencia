@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj": {}
+    "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj": {
+    "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj",
+        "projectUniqueName": "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj",
         "projectName": "ASPTuristicheskaAgencia",
-        "projectPath": "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj",
+        "projectPath": "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj",
         "packagesPath": "C:\\Users\\1212-9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\obj\\",
+        "outputPath": "C:\\Users\\1212-9\\Desktop\\ProektDZISvetoslav\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,19 +57,29 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.12, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.12, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.12, )"
             }
           },
           "imports": [
