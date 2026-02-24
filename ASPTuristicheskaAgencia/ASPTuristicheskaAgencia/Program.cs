@@ -23,6 +23,14 @@ namespace ASPTuristicheskaAgencia
                 .AddDefaultTokenProviders();
             builder.Services.AddControllersWithViews();
 
+
+
+        builder.Services.AddRazorPages();
+            builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
+
+
+
+
             var app = builder.Build();
             app.PrepareDataBase().Wait();
            
