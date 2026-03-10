@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ASPTuristicheskaAgencia.Data;
+using Microsoft.Build.Tasks.Deployment.Bootstrapper;
 
 namespace ASPTuristicheskaAgencia.Controllers
 {
@@ -47,7 +48,7 @@ namespace ASPTuristicheskaAgencia.Controllers
         // GET: Offers/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "CategoryName");
             return View();
         }
 
@@ -56,15 +57,16 @@ namespace ASPTuristicheskaAgencia.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Destination,CategoryId,Description,StartDate,EndDate,IncludedServices,Price,CreatedOn")] Offer offer)
+        public async Task<IActionResult> Create([Bind("Name,Destination,CategoryId,Description,StartDate,EndDate,IncludedServices,Price,ImageURL")] Offer offer)
         {
+            offer.CreatedOn = DateTime.Now;
             if (ModelState.IsValid)
             {
                 _context.Add(offer);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", offer.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "CtegoryName", offer.CategoryId);
             return View(offer);
         }
 
@@ -81,7 +83,7 @@ namespace ASPTuristicheskaAgencia.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", offer.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "CategoryName", offer.CategoryId);
             return View(offer);
         }
 
@@ -90,8 +92,9 @@ namespace ASPTuristicheskaAgencia.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Destination,CategoryId,Description,StartDate,EndDate,IncludedServices,Price,CreatedOn")] Offer offer)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Destination,CategoryId,Description,StartDate,EndDate,IncludedServices,Price,/*CreatedOn*/,ImageURL")] Offer offer)
         {
+            offer.CreatedOn = DateTime.Now;
             if (id != offer.Id)
             {
                 return NotFound();
@@ -117,7 +120,7 @@ namespace ASPTuristicheskaAgencia.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", offer.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "CategoryName", offer.CategoryId);
             return View(offer);
         }
 

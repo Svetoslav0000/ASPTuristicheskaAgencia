@@ -55,6 +55,7 @@ namespace ASPTuristicheskaAgencia.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,CategoryName,Description")] Category category)
         {
+           
             if (ModelState.IsValid)
             {
                 _context.Add(category);

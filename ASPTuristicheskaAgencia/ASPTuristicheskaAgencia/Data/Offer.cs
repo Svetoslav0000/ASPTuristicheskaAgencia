@@ -20,6 +20,7 @@
         public decimal Price { get; set; }
 
         public DateTime CreatedOn { get; set; }
+        public string ImageURL { get; set; }
 
         public ICollection<Reservation> Reservations { get; set; }
     }
