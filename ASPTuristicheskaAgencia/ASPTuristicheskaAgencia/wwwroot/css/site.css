@@ -1,31 +1,89 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
 body {
-  margin-bottom: 60px;
+    color: #1e293b;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+/* Inputs */
+.form-control,
+.form-select {
+    color: #1e293b !important;
+    background: white !important;
+    border: 1px solid #cbd5e1;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
+    .form-control::placeholder {
+        color: #64748b !important;
+    }
+
+/* Labels */
+label,
+.control-label {
+    color: #1e293b !important;
+    font-weight: 600;
+}
+
+/* Cards / auth box text */
+.auth-box,
+.offer-card,
+.offer-details-card {
+    color: #1e293b !important;
+}
+
+/* Table text if still using tables somewhere */
+table,
+th,
+td {
+    color: #1e293b !important;
+}
+
+/* Links inside white areas */
+a {
+    color: #0284c7;
+}
+.offer-card {
+    border: none;
+    border-radius: 18px;
+    overflow: hidden;
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(12px);
+    color: white;
+    transition: 0.3s;
+}
+
+    .offer-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 35px rgba(0,0,0,0.35);
+    }
+
+.offer-image {
+    height: 220px;
+    object-fit: cover;
+}
+
+.offer-details-card {
+    max-width: 900px;
+    margin: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(14px);
+}
+
+.details-image {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+}
+.auth-box {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 35px;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(14px);
+    box-shadow: 0 10px 35px rgba(0,0,0,0.35);
+}
+.navbar-brand {
+    color: #000 !important;
+    font-weight: 700;
+    font-size: 1.2rem;
 }

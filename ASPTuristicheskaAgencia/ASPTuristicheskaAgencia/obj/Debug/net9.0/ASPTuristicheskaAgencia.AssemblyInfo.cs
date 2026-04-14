@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPTuristicheskaAgencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21f0222d9e9c1289e2e6fc664462bc03cf9dc6ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0d9e158c87360bb7b2d7fada4da75ad89684e64")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPTuristicheskaAgencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPTuristicheskaAgencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

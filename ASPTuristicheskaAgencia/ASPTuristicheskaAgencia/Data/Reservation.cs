@@ -12,7 +12,5 @@
         public ReservationStatus Status { get; set; }
         public DateTime ReservationDate { get; set; }
 
-
-
     }
 }

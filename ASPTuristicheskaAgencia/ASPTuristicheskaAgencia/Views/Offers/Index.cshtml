@@ -1,93 +1,35 @@
 ﻿@model IEnumerable<ASPTuristicheskaAgencia.Data.Offer>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Offers";
 }
 
-<h1>Index</h1>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>🌍 Travel Offers</h1>
+    <a asp-action="Create" class="btn btn-primary">+ Create Offer</a>
+</div>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                Ime
-               @*  @Html.DisplayNameFor(model => model.Name) *@
-            </th>
-            <th>
-                Destinaciq
-                @* @Html.DisplayNameFor(model => model.Destination) *@
-            </th>
-            <th>
-                Kategoriq
-               @*  @Html.DisplayNameFor(model => model.Category) *@
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.StartDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.EndDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IncludedServices)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CreatedOn)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ImageURL)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Destination)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Category.CategoryName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.StartDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EndDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IncludedServices)
-            </td>
-            <td>
-                    @Html.DisplayFor(modelItem => item.Price) €
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreatedOn)
-            </td>
-            <td>
-                <img src = "@item.ImageURL" width=" 50"/>
-               @*  @Html.DisplayFor(modelItem => item.ImageURL) *@
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card offer-card h-100">
+                <img src="@item.ImageURL" class="card-img-top offer-image" />
+
+                <div class="card-body">
+                    <h4>@item.Name</h4>
+                    <p>📍 @item.Destination</p>
+                    <p>🏷️ @item.Category.CategoryName</p>
+                    <p>💶 <strong>@item.Price €</strong></p>
+                    <p>@item.Description</p>
+                </div>
+
+                <div class="card-footer d-flex justify-content-between">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

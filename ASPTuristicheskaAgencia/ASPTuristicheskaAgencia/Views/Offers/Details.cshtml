@@ -1,80 +1,18 @@
 ﻿@model ASPTuristicheskaAgencia.Data.Offer
 
-@{
-    ViewData["Title"] = "Details";
-}
+<div class="card offer-details-card">
+    <img src="@Model.ImageURL" class="details-image" />
 
-<h1>Details</h1>
+    <div class="card-body">
+        <h2>@Model.Name</h2>
+        <p><strong>Destination:</strong> @Model.Destination</p>
+        <p><strong>Category:</strong> @Model.Category.CategoryName</p>
+        <p><strong>Description:</strong> @Model.Description</p>
+        <p><strong>Dates:</strong> @Model.StartDate - @Model.EndDate</p>
+        <p><strong>Services:</strong> @Model.IncludedServices</p>
+        <p><strong>Price:</strong> @Model.Price €</p>
 
-<div>
-    <h4>Offer</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Name)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Name)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Destination)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Destination)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Category)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Category.Id)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Description)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Description)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.StartDate)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.StartDate)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.EndDate)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.EndDate)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IncludedServices)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.IncludedServices)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Price)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Price)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CreatedOn)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.CreatedOn)
-        </dd>
-        <dt  class = "col-sm-2"> 
-           @*  @Html.DisplayNameFor(model => model.ImageURL)  *@
-            <img src="@Model.ImageURL" width=" 50" />
-        </dt>
-
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImageURL)
-        </dd>
-    </dl>
-</div>
-<div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
 </div>
