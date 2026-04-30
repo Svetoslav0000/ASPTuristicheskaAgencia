@@ -1,0 +1,27 @@
+﻿@model ASPTuristicheskaAgencia.Data.Reservation
+
+<h2 class="text-center mb-4">✏️ Редактирай резервация</h2>
+
+<div class="auth-box">
+    <form asp-action="Edit">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label asp-for="OfferId">Оферта</label>
+            <select asp-for="OfferId" asp-items="ViewBag.OfferId" class="form-control"></select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Status">Сатус</label>
+            <input asp-for="Status" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ReservationDate">Дата на резервация</label>
+            <input asp-for="ReservationDate" class="form-control" />
+        </div>
+
+        <button class="btn btn-primary w-100">Запази</button>
+    </form>
+</div>

@@ -1,0 +1,39 @@
+﻿@model ASPTuristicheskaAgencia.Data.Category
+
+@{
+    ViewData["Title"] = "Редактиране";
+}
+
+<h2 class="text-center mb-4">✏️ Редактирай категория</h2>
+
+<div class="auth-box">
+    <form asp-action="Edit">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label asp-for="CategoryName" class="form-label">Име на категория</label>
+            <input asp-for="CategoryName" class="form-control" />
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Описание</label>
+            <input asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">💾 Запази</button>
+
+        <a asp-action="Index" class="btn btn-secondary w-100 mt-2">⬅ Назад</a>
+
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

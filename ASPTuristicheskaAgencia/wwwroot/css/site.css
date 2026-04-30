@@ -1,0 +1,159 @@
+/* BODY */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #dbeafe, #eff6ff);
+    color: #000;
+}
+
+/* NAVBAR */
+.navbar {
+    background: #bfdbfe !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.navbar-brand {
+    color: #000 !important;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
+
+.nav-link {
+    color: #000 !important;
+    font-weight: 500;
+}
+
+    .nav-link:hover {
+        color: #2563eb !important;
+    }
+
+/* MAIN CONTAINER */
+.main-content {
+    padding: 20px;
+}
+
+/* AUTH BOX (forms) */
+.auth-box {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 35px;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+/* INPUTS */
+.form-control {
+    border-radius: 10px;
+    border: 1px solid #93c5fd;
+    padding: 10px;
+    color: #000;
+}
+
+    .form-control:focus {
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 0.2rem rgba(59,130,246,0.2);
+    }
+
+/* BUTTONS */
+.btn-primary {
+    background: #3b82f6;
+    border: none;
+    border-radius: 10px;
+}
+
+    .btn-primary:hover {
+        background: #2563eb;
+    }
+
+.btn-warning {
+    border-radius: 10px;
+}
+
+.btn-danger {
+    border-radius: 10px;
+}
+
+/* CARDS (Offers, Reservations, Categories) */
+.card,
+.offer-card,
+.category-box,
+.reservation-card {
+    background: white;
+    border-radius: 18px;
+    box-shadow: 0 6px 25px rgba(0,0,0,0.08);
+    transition: 0.3s;
+}
+
+    .card:hover,
+    .offer-card:hover,
+    .category-box:hover,
+    .reservation-card:hover {
+        transform: translateY(-6px);
+    }
+
+/* IMAGES */
+.offer-image,
+.details-image {
+    border-radius: 15px;
+}
+
+/* HEADINGS */
+h1, h2, h3, h4, h5 {
+    color: #000;
+}
+
+/* FOOTER */
+footer {
+    background: #bfdbfe;
+    color: #000;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+    border-top: 1px solid #93c5fd;
+}
+/* HERO */
+.hero-section {
+    height: 60vh;
+    background: linear-gradient(rgba(59,130,246,0.6), rgba(59,130,246,0.6)), url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e');
+    background-size: cover;
+    background-position: center;
+    border-radius: 0 0 30px 30px;
+}
+
+/* CATEGORY BOX */
+.category-home {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    transition: 0.3s;
+}
+
+    .category-home:hover {
+        transform: translateY(-5px);
+    }
+.categories {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.category-card {
+    display: inline-block;
+    padding: 18px 28px;
+    background: #f1f1f1;
+    border-radius: 18px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+    .category-card:hover {
+        background: #0d6efd;
+        color: white;
+        transform: scale(1.05);
+    }

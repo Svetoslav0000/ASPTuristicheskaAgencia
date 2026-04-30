@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ASPTuristicheskaAgencia.Data.Reservation>
+
+@{
+    ViewData["Title"] = "Резервации";
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success text-center">
+        @TempData["Success"]
+    </div>
+}
+
+<h2 class="mb-4 text-center">📅 Резервации</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="reservation-card p-4 h-100">
+
+                <h5 class="mb-3">
+                    👤 @(item.Clients.UserName + " " + item.Clients.LastName)
+                </h5>
+
+                <p><strong>Оферта:</strong> @item.Offers.Name</p>
+
+                <p>
+                    <strong>Статус:</strong>
+                    <span class="badge bg-info">@item.Status</span>
+                </p>
+
+                <p><strong>Дата:</strong> @item.ReservationDate</p>
+
+                <div class="mt-3 d-flex justify-content-between flex-wrap gap-2">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+
+            </div>
+        </div>
+    }
+</div>
+
+<div class="text-center mt-4">
+    <a asp-action="Create" class="btn btn-primary">+ Нова резервация</a>
+</div>

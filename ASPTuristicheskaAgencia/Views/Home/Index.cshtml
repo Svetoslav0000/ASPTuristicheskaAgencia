@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Начало";
+}
+
+<!-- HERO SECTION -->
+<div class="hero-section text-center text-white d-flex align-items-center justify-content-center">
+    <div>
+        <h1 class="display-4 fw-bold">✈️ Пътувай с нас</h1>
+        <p class="lead">Открий най-добрите дестинации по света</p>
+
+        <a href="/Offers/Index" class="btn btn-light mt-3 px-4">
+            Разгледай офертите
+        </a>
+    </div>
+</div>
+
+<!-- CATEGORIES -->
+<div class="container mt-5">
+    <h2 class="text-center mb-4">🌍 Популярни категории</h2>
+
+    <div class="row text-center">
+
+        <div class="categories">
+            <a asp-controller="Offers" asp-action="ByCategory" asp-route-id="3" class="category-card">
+                🏖️ Плаж
+            </a>
+
+            <a asp-controller="Offers" asp-action="ByCategory" asp-route-id="4" class="category-card">
+                🏔️ Планина
+            </a>
+
+            <a asp-controller="Offers" asp-action="ByCategory" asp-route-id="6" class="category-card">
+                🏙️ Град
+            </a>
+
+            <a asp-controller="Offers" asp-action="ByCategory" asp-route-id="7" class="category-card">
+                🌴 Екзотика
+            </a>
+        </div>
+
+<!-- INFO SECTION -->
+<div class="container mt-5 text-center">
+    <h2>Защо да избереш нас?</h2>
+
+    <div class="row mt-4">
+
+        <div class="col-md-4">
+            <h4>💎 Най-добри оферти</h4>
+            <p>Подбрани дестинации на топ цени</p>
+        </div>
+
+        <div class="col-md-4">
+            <h4>⚡ Бърза резервация</h4>
+            <p>Лесно и удобно резервиране</p>
+        </div>
+
+        <div class="col-md-4">
+            <h4>🌍 Световни дестинации</h4>
+            <p>Пътувай навсякъде по света</p>
+        </div>
+
+    </div>
+</div>

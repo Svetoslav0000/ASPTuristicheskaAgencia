@@ -1,0 +1,14 @@
+﻿@model ASPTuristicheskaAgencia.Data.Reservation
+
+<div class="auth-box">
+
+    <h3>👤 @Model.Clients.UserName @Model.Clients.LastName</h3>
+
+    <p><strong>Оферта:</strong> @Model.Offers.Name</p>
+    <p><strong>Статус:</strong> @Model.Status</p>
+    <p><strong>Дата:</strong> @Model.ReservationDate</p>
+
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Назад</a>
+
+</div>

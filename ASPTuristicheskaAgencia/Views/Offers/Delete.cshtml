@@ -1,0 +1,12 @@
+﻿<div class="auth-box text-center">
+    <h2 class="text-danger">Изтрий оферта</h2>
+    <p>Сигурни ли сте ,че искате да изтриете <strong>@Model.Name</strong>?</p>
+
+    <img src="@Model.ImageURL" class="details-image mb-3" />
+
+    <form asp-action="Изтриване">
+       @*  <input type="hidden" asp-for="Id" /> *@
+        <button class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>

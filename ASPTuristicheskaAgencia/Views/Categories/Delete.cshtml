@@ -1,0 +1,14 @@
+﻿@model ASPTuristicheskaAgencia.Data.Category
+
+<div class="auth-box text-center">
+    <h2 class="text-danger">Изтрий категория</h2>
+
+    <p>Сигурен ли си, че искаш да изтриеш:</p>
+    <h4>@Model.CategoryName</h4>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
