@@ -1628,4 +1628,5 @@ C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheska
 C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheskaAgencia-master\ASPTuristicheskaAgencia\obj\Debug\net9.0\ASPTuristicheskaAgencia.pdb
 C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheskaAgencia-master\ASPTuristicheskaAgencia\obj\Debug\net9.0\ASPTuristicheskaAgencia.genruntimeconfig.cache
 C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheskaAgencia-master\ASPTuristicheskaAgencia\obj\Debug\net9.0\ref\ASPTuristicheskaAgencia.dll
-C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheskaAgencia-master\ASPTuristicheskaAgencia\obj\Debug\net9.0\compressed\2wlef72tlm-mo8g27kzor.gz
+C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheskaAgencia-master\ASPTuristicheskaAgencia\obj\Debug\net9.0\ASPTuristicheskaAgencia.sourcelink.json
+C:\Users\svetk\OneDrive\Работен плот\NaChataZada`ata\ASPTuristicheskaAgencia-master\ASPTuristicheskaAgencia\obj\Debug\net9.0\compressed\2wlef72tlm-p9forgcbd4.gz

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\data\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\data\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -118,10 +138,6 @@
       "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -134,20 +150,8 @@
       "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\data\\migrations\\20260210110335_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\data\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\data\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\services\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|c:\\users\\svetk\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\nachatazada\u0060ata\\aspturisticheskaagencia-master\\aspturisticheskaagencia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30502BBC-BFEA-487A-B2DA-CE92467047F4}|ASPTuristicheskaAgencia\\ASPTuristicheskaAgencia.csproj|solutionrelative:aspturisticheskaagencia\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -157,23 +161,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Category.cs",
-              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\Category.cs",
-              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Category.cs",
-              "RelativeToolTip": "ASPTuristicheskaAgencia\\Data\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T08:03:50.247Z"
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\appsettings.json",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\appsettings.json",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T21:15:55.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T07:33:00.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T07:33:02.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Categories\\Index.cshtml",
@@ -185,19 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReservationsController.cs",
-              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
-              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
-              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwEcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T07:56:51.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\wwwroot\\css\\site.css",
@@ -209,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Offers\\Create.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Offers\\Create.cshtml",
@@ -221,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Offers\\Delete.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Offers\\Delete.cshtml",
@@ -234,19 +250,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T10:00:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T07:56:51.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Reservations\\Create.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Reservations\\Create.cshtml",
               "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Reservations\\Create.cshtml",
               "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\Reservations\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-17T08:00:38.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T08:00:38.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Reservations\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Reservations\\Index.cshtml",
@@ -258,7 +298,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T11:06:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\Category.cs",
+              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Category.cs",
+              "RelativeToolTip": "ASPTuristicheskaAgencia\\Data\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:03:50.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Home\\Index.cshtml",
@@ -270,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Offers\\Index.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Offers\\Index.cshtml",
@@ -282,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Categories\\Edit.cshtml",
@@ -294,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "OffersController.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Controllers\\OffersController.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Controllers\\OffersController.cs",
@@ -306,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Reservations\\Edit.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Reservations\\Edit.cshtml",
@@ -318,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Reservations\\Details.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Reservations\\Details.cshtml",
@@ -330,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Reservations\\Delete.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Reservations\\Delete.cshtml",
@@ -342,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Categories\\Details.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Categories\\Details.cshtml",
@@ -354,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Categories\\Delete.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Categories\\Delete.cshtml",
@@ -366,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Categories\\Create.cshtml",
@@ -378,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Offers\\Details.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Offers\\Details.cshtml",
@@ -390,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Offers\\Edit.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Offers\\Edit.cshtml",
@@ -402,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Offer.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Offer.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\Offer.cs",
@@ -414,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Reservation.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\Reservation.cs",
@@ -426,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "dbo.Reservations.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ASPTuristicheskaAgencia/True/SqlTable/dbo.Reservations.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_ASPTuristicheskaAgencia/True/SqlTable/dbo.Reservations.sql",
@@ -435,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "20260210110335_first-migration.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Migrations\\20260210110335_first-migration.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\Migrations\\20260210110335_first-migration.cs",
@@ -447,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\ApplicationDbContext.cs",
@@ -459,19 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwBoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-14T10:00:00.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\wwwroot\\js\\site.js",
@@ -483,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -495,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Controllers\\CategoriesController.cs",
@@ -507,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\Client.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\Client.cs",
@@ -520,18 +572,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "ReservationStatus.cs",
-              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
-              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
-              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
-              "RelativeToolTip": "ASPTuristicheskaAgencia\\Data\\ReservationStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T11:06:21.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\Home\\Privacy.cshtml",
@@ -543,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "ApplicationBuilderExtension.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Services\\ApplicationBuilderExtension.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Services\\ApplicationBuilderExtension.cs",
@@ -555,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Program.cs",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Program.cs",
@@ -567,31 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T07:33:00.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ASPTuristicheskaAgencia\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T07:33:02.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\svetk\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\NaChataZada\u0060ata\\ASPTuristicheskaAgencia-master\\ASPTuristicheskaAgencia\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "ASPTuristicheskaAgencia\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
